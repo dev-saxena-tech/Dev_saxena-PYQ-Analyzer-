@@ -349,7 +349,7 @@ def login_form():
     if st.button("Login"):
         if username == "demo" and password == "pass123":
             # Delete all PDFs from Upload folder
-            upload_dir = os.path.join(os.getcwd(), "Upload")
+            upload_dir = os.path.join(os.getcwd(), "upload")
             if os.path.exists(upload_dir):
                 for pdf_file in glob.glob(os.path.join(upload_dir, "*.pdf")):
                     os.remove(pdf_file)
@@ -438,7 +438,7 @@ elif page == "📂 Upload PDFs":
     if files_to_show:
         st.success(f"{len(files_to_show)} file(s) uploaded successfully!")
 
-        upload_dir = os.path.join(os.getcwd(), "Upload")
+        upload_dir = os.path.join(os.getcwd(), "upload")
         if not os.path.exists(upload_dir):
             os.makedirs(upload_dir)
 
