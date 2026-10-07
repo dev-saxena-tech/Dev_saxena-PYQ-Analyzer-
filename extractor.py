@@ -37,6 +37,7 @@ if __name__ == "__main__":
     folder_path = "upload"
     output_file = "output.json"
 
+    os.makedirs(folder_path, exist_ok=True)
     result = process_pdfs_in_folder(folder_path)
 
     with open(output_file, "w", encoding="utf-8") as f:

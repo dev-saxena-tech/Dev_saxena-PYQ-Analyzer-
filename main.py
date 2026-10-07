@@ -3,6 +3,7 @@ import os
 import glob
 import subprocess
 import json
+os.makedirs("upload", exist_ok=True)
 
 st.set_page_config(page_title="PYQ Analyzer", layout="centered", page_icon="📘", initial_sidebar_state="expanded")
 
