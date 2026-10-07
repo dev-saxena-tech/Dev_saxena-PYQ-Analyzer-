@@ -1,31 +1,78 @@
 {
   "summary": {
-    "total_section_a_questions": 14,
-    "total_section_bc_questions": 18,
-    "section_a_clusters": 8,
-    "section_bc_clusters": 11,
-    "section_a_clusters_with_repeats": 6,
-    "section_bc_clusters_with_repeats": 5
+    "total_section_a_questions": 49,
+    "total_section_bc_questions": 63,
+    "section_a_clusters": 16,
+    "section_bc_clusters": 18,
+    "section_a_clusters_with_repeats": 8,
+    "section_bc_clusters_with_repeats": 11
   },
   "SECTION_A_clusters": [
     {
-      "canonical_question": "Define array and linked list.",
-      "frequency": 2,
+      "canonical_question": "What is a complete binary tree?",
+      "frequency": 8,
       "years": [
+        "2018",
+        "2019",
+        "2020",
+        "2022",
         "2023",
-        "2024"
+        "2024",
+        "2025"
       ],
       "questions_in_cluster": [
         {
-          "text": "Define array and linked list.",
-          "normalized": "array linked",
+          "text": "What is a binary search tree?",
+          "normalized": "binary search tree",
           "year": "2024",
           "section": "SECTION A",
           "source": "DS_AKTU_2024.pdf"
         },
         {
-          "text": "Define array and linked list.",
-          "normalized": "array linked",
+          "text": "What is a binary tree?",
+          "normalized": "binary tree",
+          "year": "2019",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2019.pdf"
+        },
+        {
+          "text": "What is a complete binary tree?",
+          "normalized": "complete binary tree",
+          "year": "2018",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2018-1.pdf"
+        },
+        {
+          "text": "What is a threaded binary tree?",
+          "normalized": "threaded binary tree",
+          "year": "2020",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2020.pdf"
+        },
+        {
+          "text": "Define a binary search tree.",
+          "normalized": "binary search tree",
+          "year": "2020",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2020.pdf"
+        },
+        {
+          "text": "What is a binary search tree?",
+          "normalized": "binary search tree",
+          "year": "2025",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2025.pdf"
+        },
+        {
+          "text": "What is a binary tree?",
+          "normalized": "binary tree",
+          "year": "2022",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2022.pdf"
+        },
+        {
+          "text": "What is a binary search tree?",
+          "normalized": "binary search tree",
           "year": "2023",
           "section": "SECTION A",
           "source": "DS_AKTU_2023.pdf"
@@ -33,35 +80,16 @@
       ]
     },
     {
-      "canonical_question": "Define a queue and its types.",
-      "frequency": 2,
+      "canonical_question": "State the time complexity of selection sort.",
+      "frequency": 7,
       "years": [
+        "2018",
+        "2019",
+        "2020",
+        "2022",
         "2023",
-        "2024"
-      ],
-      "questions_in_cluster": [
-        {
-          "text": "What is a circular queue?",
-          "normalized": "circular queue",
-          "year": "2024",
-          "section": "SECTION A",
-          "source": "DS_AKTU_2024.pdf"
-        },
-        {
-          "text": "Define a queue and its types.",
-          "normalized": "queue types",
-          "year": "2023",
-          "section": "SECTION A",
-          "source": "DS_AKTU_2023.pdf"
-        }
-      ]
-    },
-    {
-      "canonical_question": "State the time complexity of binary search.",
-      "frequency": 2,
-      "years": [
-        "2023",
-        "2024"
+        "2024",
+        "2025"
       ],
       "questions_in_cluster": [
         {
@@ -70,6 +98,41 @@
           "year": "2024",
           "section": "SECTION A",
           "source": "DS_AKTU_2024.pdf"
+        },
+        {
+          "text": "State the time complexity of quick sort.",
+          "normalized": "time complexity quick sort",
+          "year": "2019",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2019.pdf"
+        },
+        {
+          "text": "State the time complexity of bubble sort.",
+          "normalized": "time complexity bubble sort",
+          "year": "2018",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2018-1.pdf"
+        },
+        {
+          "text": "State the time complexity of selection sort.",
+          "normalized": "time complexity selection sort",
+          "year": "2020",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2020.pdf"
+        },
+        {
+          "text": "State the time complexity of binary search.",
+          "normalized": "time complexity binary search",
+          "year": "2025",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2025.pdf"
+        },
+        {
+          "text": "State the time complexity of merge sort.",
+          "normalized": "time complexity merge sort",
+          "year": "2022",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2022.pdf"
         },
         {
           "text": "State the time complexity of binary search.",
@@ -82,10 +145,14 @@
     },
     {
       "canonical_question": "What is a stack? Give two applications.",
-      "frequency": 2,
+      "frequency": 6,
       "years": [
+        "2019",
+        "2020",
+        "2022",
         "2023",
-        "2024"
+        "2024",
+        "2025"
       ],
       "questions_in_cluster": [
         {
@@ -94,6 +161,34 @@
           "year": "2024",
           "section": "SECTION A",
           "source": "DS_AKTU_2024.pdf"
+        },
+        {
+          "text": "What is a queue? Give two applications.",
+          "normalized": "queue applications",
+          "year": "2019",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2019.pdf"
+        },
+        {
+          "text": "Define stack and queue.",
+          "normalized": "stack queue",
+          "year": "2020",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2020.pdf"
+        },
+        {
+          "text": "What is a stack? Give two applications.",
+          "normalized": "stack applications",
+          "year": "2025",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2025.pdf"
+        },
+        {
+          "text": "What is a stack? Give two applications.",
+          "normalized": "stack applications",
+          "year": "2022",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2022.pdf"
         },
         {
           "text": "What is a stack? Give two applications.",
@@ -105,23 +200,47 @@
       ]
     },
     {
-      "canonical_question": "What is a binary search tree?",
-      "frequency": 2,
+      "canonical_question": "Define array and linked list.",
+      "frequency": 5,
       "years": [
+        "2019",
+        "2022",
         "2023",
-        "2024"
+        "2024",
+        "2025"
       ],
       "questions_in_cluster": [
         {
-          "text": "What is a binary search tree?",
-          "normalized": "binary search tree",
+          "text": "Define array and linked list.",
+          "normalized": "array linked",
           "year": "2024",
           "section": "SECTION A",
           "source": "DS_AKTU_2024.pdf"
         },
         {
-          "text": "What is a binary search tree?",
-          "normalized": "binary search tree",
+          "text": "Define array and linked list.",
+          "normalized": "array linked",
+          "year": "2019",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2019.pdf"
+        },
+        {
+          "text": "Define array and linked list.",
+          "normalized": "array linked",
+          "year": "2025",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2025.pdf"
+        },
+        {
+          "text": "Define array and linked list.",
+          "normalized": "array linked",
+          "year": "2022",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2022.pdf"
+        },
+        {
+          "text": "Define array and linked list.",
+          "normalized": "array linked",
           "year": "2023",
           "section": "SECTION A",
           "source": "DS_AKTU_2023.pdf"
@@ -130,10 +249,13 @@
     },
     {
       "canonical_question": "Differentiate between BFS and DFS.",
-      "frequency": 2,
+      "frequency": 5,
       "years": [
+        "2019",
+        "2022",
         "2023",
-        "2024"
+        "2024",
+        "2025"
       ],
       "questions_in_cluster": [
         {
@@ -142,6 +264,27 @@
           "year": "2024",
           "section": "SECTION A",
           "source": "DS_AKTU_2024.pdf"
+        },
+        {
+          "text": "Differentiate between BFS and DFS.",
+          "normalized": "bfs dfs",
+          "year": "2019",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2019.pdf"
+        },
+        {
+          "text": "Differentiate between BFS and DFS.",
+          "normalized": "bfs dfs",
+          "year": "2025",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2025.pdf"
+        },
+        {
+          "text": "Differentiate between BFS and DFS.",
+          "normalized": "bfs dfs",
+          "year": "2022",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2022.pdf"
         },
         {
           "text": "Differentiate between BFS and DFS.",
@@ -154,9 +297,13 @@
     },
     {
       "canonical_question": "What is a hash function?",
-      "frequency": 1,
+      "frequency": 5,
       "years": [
-        "2024"
+        "2019",
+        "2020",
+        "2022",
+        "2024",
+        "2025"
       ],
       "questions_in_cluster": [
         {
@@ -165,6 +312,202 @@
           "year": "2024",
           "section": "SECTION A",
           "source": "DS_AKTU_2024.pdf"
+        },
+        {
+          "text": "What is a hash table?",
+          "normalized": "hash table",
+          "year": "2019",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2019.pdf"
+        },
+        {
+          "text": "What is a hash function?",
+          "normalized": "hash function",
+          "year": "2020",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2020.pdf"
+        },
+        {
+          "text": "What is a hash function?",
+          "normalized": "hash function",
+          "year": "2025",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2025.pdf"
+        },
+        {
+          "text": "What is a hash function?",
+          "normalized": "hash function",
+          "year": "2022",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2022.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "What is a queue and what are its types?",
+      "frequency": 3,
+      "years": [
+        "2020",
+        "2022",
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "What is a graph? Define its types.",
+          "normalized": "graph types",
+          "year": "2020",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2020.pdf"
+        },
+        {
+          "text": "What is a queue and what are its types?",
+          "normalized": "queue types",
+          "year": "2022",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2022.pdf"
+        },
+        {
+          "text": "Define a queue and its types.",
+          "normalized": "queue types",
+          "year": "2023",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2023.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "What is a priority queue?",
+      "frequency": 2,
+      "years": [
+        "2018",
+        "2025"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Define a priority queue.",
+          "normalized": "priority queue",
+          "year": "2018",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2018-1.pdf"
+        },
+        {
+          "text": "What is a priority queue?",
+          "normalized": "priority queue",
+          "year": "2025",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2025.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "What is a circular queue?",
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "What is a circular queue?",
+          "normalized": "circular queue",
+          "year": "2024",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2024.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Define a doubly linked list.",
+      "frequency": 1,
+      "years": [
+        "2019"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Define a doubly linked list.",
+          "normalized": "doubly linked",
+          "year": "2019",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2019.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Define data structure and its types.",
+      "frequency": 1,
+      "years": [
+        "2018"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Define data structure and its types.",
+          "normalized": "data structure types",
+          "year": "2018",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2018-1.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "What is a stack overflow condition?",
+      "frequency": 1,
+      "years": [
+        "2018"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "What is a stack overflow condition?",
+          "normalized": "stack overflow condition",
+          "year": "2018",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2018-1.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Define a spanning tree.",
+      "frequency": 1,
+      "years": [
+        "2018"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Define a spanning tree.",
+          "normalized": "spanning tree",
+          "year": "2018",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2018-1.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "What is linear probing?",
+      "frequency": 1,
+      "years": [
+        "2018"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "What is linear probing?",
+          "normalized": "linear probing",
+          "year": "2018",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2018-1.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "What is a sparse matrix?",
+      "frequency": 1,
+      "years": [
+        "2020"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "What is a sparse matrix?",
+          "normalized": "sparse matrix",
+          "year": "2020",
+          "section": "SECTION A",
+          "source": "DS_AKTU_2020.pdf"
         }
       ]
     },
@@ -187,11 +530,16 @@
   ],
   "SECTION_BC_clusters": [
     {
-      "canonical_question": "Explain binary search tree with insertion and deletion examples.",
-      "frequency": 4,
+      "canonical_question": "Explain linked list types with insertion and deletion algorithms.",
+      "frequency": 16,
       "years": [
+        "2018",
+        "2019",
+        "2020",
+        "2022",
         "2023",
-        "2024"
+        "2024",
+        "2025"
       ],
       "questions_in_cluster": [
         {
@@ -207,6 +555,90 @@
           "year": "2024",
           "section": "SECTION C",
           "source": "DS_AKTU_2024.pdf"
+        },
+        {
+          "text": "Explain circular queue with insertion and deletion algorithms.",
+          "normalized": "circular queue insertion deletion algorithms",
+          "year": "2019",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2019.pdf"
+        },
+        {
+          "text": "Explain insertion and deletion in a binary search tree.",
+          "normalized": "insertion deletion binary search tree",
+          "year": "2019",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2019.pdf"
+        },
+        {
+          "text": "Write the binary search algorithm and discuss its complexity.",
+          "normalized": "binary search algorithm complexity",
+          "year": "2019",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2019.pdf"
+        },
+        {
+          "text": "Explain linked list types with insertion and deletion algorithms.",
+          "normalized": "linked types insertion deletion algorithms",
+          "year": "2018",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2018-1.pdf"
+        },
+        {
+          "text": "Explain binary search tree with insertion and deletion examples.",
+          "normalized": "binary search tree insertion deletion examples",
+          "year": "2018",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2018-1.pdf"
+        },
+        {
+          "text": "Write the binary search algorithm and explain its complexity.",
+          "normalized": "binary search algorithm complexity",
+          "year": "2018",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2018-1.pdf"
+        },
+        {
+          "text": "Explain binary search tree with insertion and deletion examples.",
+          "normalized": "binary search tree insertion deletion examples",
+          "year": "2020",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2020.pdf"
+        },
+        {
+          "text": "Write the binary search algorithm and explain its complexity.",
+          "normalized": "binary search algorithm complexity",
+          "year": "2020",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2020.pdf"
+        },
+        {
+          "text": "Explain binary search tree with insertion and deletion examples.",
+          "normalized": "binary search tree insertion deletion examples",
+          "year": "2025",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2025.pdf"
+        },
+        {
+          "text": "Write the binary search algorithm and discuss its complexity.",
+          "normalized": "binary search algorithm complexity",
+          "year": "2025",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2025.pdf"
+        },
+        {
+          "text": "Explain binary search tree with insertion and deletion examples.",
+          "normalized": "binary search tree insertion deletion examples",
+          "year": "2022",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2022.pdf"
+        },
+        {
+          "text": "Write the binary search algorithm and explain its complexity.",
+          "normalized": "binary search algorithm complexity",
+          "year": "2022",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2022.pdf"
         },
         {
           "text": "Explain insertion and deletion in a binary search tree.",
@@ -225,11 +657,78 @@
       ]
     },
     {
-      "canonical_question": "Differentiate between array and linked list with suitable examples.",
-      "frequency": 2,
+      "canonical_question": "Write a short note on AVL trees and rotations.",
+      "frequency": 7,
       "years": [
+        "2018",
+        "2019",
+        "2020",
+        "2022",
         "2023",
-        "2024"
+        "2024",
+        "2025"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Write a short note on AVL trees and rotations.",
+          "normalized": "avl trees rotations",
+          "year": "2024",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2024.pdf"
+        },
+        {
+          "text": "Write a short note on B-trees.",
+          "normalized": "trees",
+          "year": "2019",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2019.pdf"
+        },
+        {
+          "text": "Explain AVL tree rotations with examples.",
+          "normalized": "avl tree rotations examples",
+          "year": "2018",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2018-1.pdf"
+        },
+        {
+          "text": "Explain AVL tree rotations with examples.",
+          "normalized": "avl tree rotations examples",
+          "year": "2020",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2020.pdf"
+        },
+        {
+          "text": "Write a short note on AVL trees and rotations.",
+          "normalized": "avl trees rotations",
+          "year": "2025",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2025.pdf"
+        },
+        {
+          "text": "Explain AVL tree rotations with examples.",
+          "normalized": "avl tree rotations examples",
+          "year": "2022",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2022.pdf"
+        },
+        {
+          "text": "Explain AVL tree rotations with examples.",
+          "normalized": "avl tree rotations examples",
+          "year": "2023",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2023.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Differentiate between array and linked list with suitable examples.",
+      "frequency": 5,
+      "years": [
+        "2019",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
       ],
       "questions_in_cluster": [
         {
@@ -238,6 +737,27 @@
           "year": "2024",
           "section": "SECTION B",
           "source": "DS_AKTU_2024.pdf"
+        },
+        {
+          "text": "Differentiate between array and linked list with suitable examples.",
+          "normalized": "array linked suitable examples",
+          "year": "2019",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2019.pdf"
+        },
+        {
+          "text": "Differentiate between array and linked list with suitable examples.",
+          "normalized": "array linked suitable examples",
+          "year": "2025",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2025.pdf"
+        },
+        {
+          "text": "Differentiate between array and linked list with suitable examples.",
+          "normalized": "array linked suitable examples",
+          "year": "2022",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2022.pdf"
         },
         {
           "text": "Explain the difference between array and linked list with examples.",
@@ -250,10 +770,13 @@
     },
     {
       "canonical_question": "Explain push and pop operations of a stack with an algorithm.",
-      "frequency": 2,
+      "frequency": 5,
       "years": [
+        "2020",
+        "2022",
         "2023",
-        "2024"
+        "2024",
+        "2025"
       ],
       "questions_in_cluster": [
         {
@@ -266,6 +789,27 @@
         {
           "text": "Explain push and pop operations of a stack with an algorithm.",
           "normalized": "push pop operations stack algorithm",
+          "year": "2020",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2020.pdf"
+        },
+        {
+          "text": "Explain stack data structure with push and pop algorithms.",
+          "normalized": "stack data structure push pop algorithms",
+          "year": "2025",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2025.pdf"
+        },
+        {
+          "text": "Explain stack with push and pop algorithms.",
+          "normalized": "stack push pop algorithms",
+          "year": "2022",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2022.pdf"
+        },
+        {
+          "text": "Explain push and pop operations of a stack with an algorithm.",
+          "normalized": "push pop operations stack algorithm",
           "year": "2023",
           "section": "SECTION B",
           "source": "DS_AKTU_2023.pdf"
@@ -274,10 +818,13 @@
     },
     {
       "canonical_question": "Explain hashing and different collision handling methods.",
-      "frequency": 2,
+      "frequency": 5,
       "years": [
-        "2023",
-        "2024"
+        "2019",
+        "2020",
+        "2022",
+        "2024",
+        "2025"
       ],
       "questions_in_cluster": [
         {
@@ -286,6 +833,195 @@
           "year": "2024",
           "section": "SECTION B",
           "source": "DS_AKTU_2024.pdf"
+        },
+        {
+          "text": "Explain collision resolution in hashing.",
+          "normalized": "collision resolution hashing",
+          "year": "2019",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2019.pdf"
+        },
+        {
+          "text": "Explain hashing and different collision handling methods.",
+          "normalized": "hashing different collision handling methods",
+          "year": "2020",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2020.pdf"
+        },
+        {
+          "text": "Explain hashing and different collision handling methods.",
+          "normalized": "hashing different collision handling methods",
+          "year": "2025",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2025.pdf"
+        },
+        {
+          "text": "Explain hashing and different collision handling methods.",
+          "normalized": "hashing different collision handling methods",
+          "year": "2022",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2022.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain inorder, preorder and postorder tree traversal with examples.",
+      "frequency": 4,
+      "years": [
+        "2019",
+        "2022",
+        "2024",
+        "2025"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain inorder, preorder and postorder traversal of a tree.",
+          "normalized": "inorder preorder postorder traversal tree",
+          "year": "2024",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2024.pdf"
+        },
+        {
+          "text": "Explain inorder, preorder and postorder tree traversal with examples.",
+          "normalized": "inorder preorder postorder tree traversal examples",
+          "year": "2019",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2019.pdf"
+        },
+        {
+          "text": "Explain inorder, preorder and postorder traversal of a tree.",
+          "normalized": "inorder preorder postorder traversal tree",
+          "year": "2025",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2025.pdf"
+        },
+        {
+          "text": "Explain inorder, preorder and postorder traversal of a tree.",
+          "normalized": "inorder preorder postorder traversal tree",
+          "year": "2022",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2022.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain merge sort and quick sort with their time complexity.",
+      "frequency": 4,
+      "years": [
+        "2019",
+        "2022",
+        "2024",
+        "2025"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain merge sort and analyze its time complexity.",
+          "normalized": "merge sort analyze time complexity",
+          "year": "2024",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2024.pdf"
+        },
+        {
+          "text": "Explain merge sort and analyze its complexity.",
+          "normalized": "merge sort analyze complexity",
+          "year": "2019",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2019.pdf"
+        },
+        {
+          "text": "Explain merge sort and quick sort with their time complexity.",
+          "normalized": "merge sort quick sort time complexity",
+          "year": "2025",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2025.pdf"
+        },
+        {
+          "text": "Explain quick sort and analyze its time complexity.",
+          "normalized": "quick sort analyze time complexity",
+          "year": "2022",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2022.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain BFS and DFS traversal of a graph with an example.",
+      "frequency": 3,
+      "years": [
+        "2019",
+        "2024",
+        "2025"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain BFS and DFS traversal of a graph with an example.",
+          "normalized": "bfs dfs traversal graph example",
+          "year": "2024",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2024.pdf"
+        },
+        {
+          "text": "Explain BFS and DFS traversal of a graph with an example.",
+          "normalized": "bfs dfs traversal graph example",
+          "year": "2019",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2019.pdf"
+        },
+        {
+          "text": "Explain BFS and DFS traversal of a graph with an example.",
+          "normalized": "bfs dfs traversal graph example",
+          "year": "2025",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2025.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain Dijkstra shortest path algorithm with an example.",
+      "frequency": 3,
+      "years": [
+        "2020",
+        "2022",
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain Dijkstra shortest path algorithm with an example.",
+          "normalized": "dijkstra shortest path algorithm example",
+          "year": "2020",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2020.pdf"
+        },
+        {
+          "text": "Explain Dijkstra shortest path algorithm with an example.",
+          "normalized": "dijkstra shortest path algorithm example",
+          "year": "2022",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2022.pdf"
+        },
+        {
+          "text": "Explain Dijkstra shortest path algorithm with an example.",
+          "normalized": "dijkstra shortest path algorithm example",
+          "year": "2023",
+          "section": "SECTION C",
+          "source": "DS_AKTU_2023.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain hashing and collision resolution techniques.",
+      "frequency": 2,
+      "years": [
+        "2018",
+        "2023"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain hashing and collision resolution techniques.",
+          "normalized": "hashing collision resolution techniques",
+          "year": "2018",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2018-1.pdf"
         },
         {
           "text": "Explain hashing and collision resolution techniques.",
@@ -297,74 +1033,122 @@
       ]
     },
     {
-      "canonical_question": "Write a short note on AVL trees and rotations.",
+      "canonical_question": "Explain quick sort and derive its average case complexity.",
       "frequency": 2,
       "years": [
-        "2023",
-        "2024"
+        "2020",
+        "2023"
       ],
       "questions_in_cluster": [
         {
-          "text": "Write a short note on AVL trees and rotations.",
-          "normalized": "avl trees rotations",
-          "year": "2024",
-          "section": "SECTION C",
-          "source": "DS_AKTU_2024.pdf"
+          "text": "Explain quick sort and derive its average case complexity.",
+          "normalized": "quick sort derive average case complexity",
+          "year": "2020",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2020.pdf"
         },
         {
-          "text": "Explain AVL tree rotations with examples.",
-          "normalized": "avl tree rotations examples",
+          "text": "Explain quick sort and derive its average case complexity.",
+          "normalized": "quick sort derive average case complexity",
           "year": "2023",
-          "section": "SECTION C",
+          "section": "SECTION B",
           "source": "DS_AKTU_2023.pdf"
         }
       ]
     },
     {
-      "canonical_question": "Explain inorder, preorder and postorder traversal of a tree.",
+      "canonical_question": "Explain stack and its applications with infix to postfix conversion.",
       "frequency": 1,
       "years": [
-        "2024"
+        "2018"
       ],
       "questions_in_cluster": [
         {
-          "text": "Explain inorder, preorder and postorder traversal of a tree.",
-          "normalized": "inorder preorder postorder traversal tree",
-          "year": "2024",
+          "text": "Explain stack and its applications with infix to postfix conversion.",
+          "normalized": "stack applications infix postfix conversion",
+          "year": "2018",
           "section": "SECTION B",
-          "source": "DS_AKTU_2024.pdf"
+          "source": "DS_AKTU_2018-1.pdf"
         }
       ]
     },
     {
-      "canonical_question": "Explain merge sort and analyze its time complexity.",
+      "canonical_question": "Explain heap sort with an example.",
       "frequency": 1,
       "years": [
-        "2024"
+        "2018"
       ],
       "questions_in_cluster": [
         {
-          "text": "Explain merge sort and analyze its time complexity.",
-          "normalized": "merge sort analyze time complexity",
-          "year": "2024",
+          "text": "Explain heap sort with an example.",
+          "normalized": "heap sort example",
+          "year": "2018",
           "section": "SECTION B",
-          "source": "DS_AKTU_2024.pdf"
+          "source": "DS_AKTU_2018-1.pdf"
         }
       ]
     },
     {
-      "canonical_question": "Explain BFS and DFS traversal of a graph with an example.",
+      "canonical_question": "Explain graph representation using adjacency matrix and adjacency list.",
       "frequency": 1,
       "years": [
-        "2024"
+        "2018"
       ],
       "questions_in_cluster": [
         {
-          "text": "Explain BFS and DFS traversal of a graph with an example.",
-          "normalized": "bfs dfs traversal graph example",
-          "year": "2024",
+          "text": "Explain graph representation using adjacency matrix and adjacency list.",
+          "normalized": "graph representation adjacency matrix adjacency",
+          "year": "2018",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2018-1.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain Prim's and Kruskal's algorithm for minimum spanning tree.",
+      "frequency": 1,
+      "years": [
+        "2018"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain Prim's and Kruskal's algorithm for minimum spanning tree.",
+          "normalized": "prim kruskal algorithm minimum spanning tree",
+          "year": "2018",
           "section": "SECTION C",
-          "source": "DS_AKTU_2024.pdf"
+          "source": "DS_AKTU_2018-1.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain polynomial addition using linked lists.",
+      "frequency": 1,
+      "years": [
+        "2020"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain polynomial addition using linked lists.",
+          "normalized": "polynomial addition linked lists",
+          "year": "2020",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2020.pdf"
+        }
+      ]
+    },
+    {
+      "canonical_question": "Explain Warshall's algorithm for shortest paths.",
+      "frequency": 1,
+      "years": [
+        "2020"
+      ],
+      "questions_in_cluster": [
+        {
+          "text": "Explain Warshall's algorithm for shortest paths.",
+          "normalized": "warshall algorithm shortest paths",
+          "year": "2020",
+          "section": "SECTION B",
+          "source": "DS_AKTU_2020.pdf"
         }
       ]
     },
@@ -380,38 +1164,6 @@
           "normalized": "tree traversal techniques examples",
           "year": "2023",
           "section": "SECTION B",
-          "source": "DS_AKTU_2023.pdf"
-        }
-      ]
-    },
-    {
-      "canonical_question": "Explain quick sort and derive its average case complexity.",
-      "frequency": 1,
-      "years": [
-        "2023"
-      ],
-      "questions_in_cluster": [
-        {
-          "text": "Explain quick sort and derive its average case complexity.",
-          "normalized": "quick sort derive average case complexity",
-          "year": "2023",
-          "section": "SECTION B",
-          "source": "DS_AKTU_2023.pdf"
-        }
-      ]
-    },
-    {
-      "canonical_question": "Explain Dijkstra shortest path algorithm with an example.",
-      "frequency": 1,
-      "years": [
-        "2023"
-      ],
-      "questions_in_cluster": [
-        {
-          "text": "Explain Dijkstra shortest path algorithm with an example.",
-          "normalized": "dijkstra shortest path algorithm example",
-          "year": "2023",
-          "section": "SECTION C",
           "source": "DS_AKTU_2023.pdf"
         }
       ]
