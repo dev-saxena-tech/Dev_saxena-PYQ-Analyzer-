@@ -222,3 +222,6 @@ __marimo__/
 output.json
 parsed_questions.json
 clustered_questions.json
+
+upload/
+upload_bak/
